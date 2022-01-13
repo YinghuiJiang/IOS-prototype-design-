@@ -1,5 +1,5 @@
 # iOS-prototype-design-project
-This is a project for course 'Design research for digital innovation' contributed by Yinghui Jiang, Irina Serenko, Siyi Wang and Kenta Saito.
+This is a project for EPFL 2021 fall course 'Design research for digital innovation' contributed by Yinghui Jiang, Irina Serenko, Siyi Wang and Kenta Saito.
 
 The main tool used is Figma.
 
