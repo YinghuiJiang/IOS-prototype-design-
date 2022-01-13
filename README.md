@@ -1,4 +1,6 @@
 # iOS-prototype-design-project
 This is a project for course 'Design research for digital innovation' contributed by Yinghui Jiang, Irina Serenko, Siyi Wang and Kenta Saito.
-The main designing tool is Figma.
 
+The main tool used is Figma.
+
+The file in this repository is a demo of the final prototype.
