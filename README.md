@@ -1,1 +1,1 @@
-# IOS-prototype-design-project
+# iOS-prototype-design-project
